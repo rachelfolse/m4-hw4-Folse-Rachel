@@ -1,0 +1,81 @@
+img {
+    float: right;
+}
+
+img.cloudpink { 
+    margin-right: 30em;
+    display: block;
+}
+
+body {
+    background-color: #fadadd;
+}
+h1 {
+    font-family: "URW Chancery L", cursive;
+    font-size: 35pt;
+}
+
+h1, h2, h3 {
+    color: #FF69B4;
+}
+
+footer > a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #dc74b6;
+    border-radius: 6px;
+    outline: none;
+    transition: 0.3s;
+}
+
+nav > a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #dc74b6;
+    border-radius: 6px;
+    outline: none;
+    transition: 0.3s;
+}
+
+ul,p {
+    color: #3f3f3f;
+}
+
+b.yt {
+    color: #ed939d;
+    font-family: "Snell Roundhand", cursive;
+}
+
+b.me {
+    color: #DA70D6;
+    font-family: "Apple Chancery", cursive;
+}
+
+b.dw {
+    color: #272727;
+    font-family: "Impact", fantasy;
+}
+
+b.swt {
+color: #e8b600;
+font-family: "Didot", serif;
+}
+
+b.tun {
+    color: #F81894;
+    font-family: "Marker Felt", fantasy;
+}
+
+b.positions {
+    color: #8A9A5B;
+    font-family: "Gill Sans", sans-serif;
+}
+
+
+
